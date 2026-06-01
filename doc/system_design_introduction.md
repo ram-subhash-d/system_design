@@ -11,4 +11,4 @@ These units can be present accross many computers not just one, the entire set i
 If the system can handle large number of requests with good response time, then it is called a scalable system.
 
 # Functional requirements
-These specify the overall functionality of the system. We are not worried yet about things like scalability, performance etc. This is the first thing that has to be done for system design, unpack the problem into functional requirements.
+These specify the overall functionality of the system. We are not worried yet about things like scalability, performance etc. This is the first thing that has to be done for system design, unpack the problem into functional requirements. Functional requirements must be written from the users use of the system perspective.

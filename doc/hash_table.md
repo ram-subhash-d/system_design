@@ -1,1 +1,0 @@
-It is data structure to save key value pairs, where insertion and searching is very fast, O(1) time.
